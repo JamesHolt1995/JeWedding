@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 var animation = bodymovin.loadAnimation({
   container: document.getElementById('animation'), // Required
-  path: '../json/writting.json', // Required
+  path: 'json/writting.json', // Required
   renderer: 'svg', // Required
   loop: false, // Optional
   autoplay: true, // Optional
