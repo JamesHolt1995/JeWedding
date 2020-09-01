@@ -1,7 +1,6 @@
 
 $(document).ready(function(){
 
-console.log("ready!");
 
 var animation = bodymovin.loadAnimation({
   container: document.getElementById('animation'), // Required
